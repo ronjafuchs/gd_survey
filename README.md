@@ -22,3 +22,8 @@ The provided files include survey structures, result data, and pattern recogniti
 ### 3. Pattern Recognition Files
 
 - `pattern_recognition_s1.ipynb`, `pattern_recognition_s2.ipynb`: Files used for detecting patterns in responses for exclusion from the analysis.
+
+### 4. Pattern Recognition Files
+
+- `coding_procedure.xlsx`: Document including all quotes submitted in S1 and the coding procedure.
+
