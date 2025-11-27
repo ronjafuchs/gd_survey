@@ -1,6 +1,7 @@
-# Supplementary Material for "How do Players perceive Gender Discrimination? On the Differences of Harassment in Online Games"
+# Supplementary Material for "Gender Discrimination in Competitive Online Games
+– Perceptions, Rumination, and Moderation"
 
-This repository contains supplementary material for the paper **"How do Players perceive Gender Discrimination? On the Differences of Harassment in Online Games"**. 
+This repository contains supplementary material for the exdended version of the paper **"How do Players perceive Gender Discrimination? On the Differences of Harassment in Online Games"**. 
 The provided files include survey structures, result data, and pattern recognition files used in the research.
 
 ## Repository Contents
