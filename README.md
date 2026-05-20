@@ -27,3 +27,13 @@ The provided files include survey structures, result data, and pattern recogniti
 
 - `coding_procedure.xlsx`: Document including all quotes submitted in S1 and the coding procedure.
 
+### 5. Goal-Question-Metric (GQM) 
+
+Metrics used in the evaluation of the surveys: 
+- M1) Difference in severity rating for eight types of gender discrimination and real examples between gender groups
+- M2) Difference in guessed realness of actual examples of gender discrimination between gender groups
+- M3) Comparison of perceived severity of gender discrimination and rumination between genders
+- M4) Comparison of rumination and guessed realness of actual examples of gender discrimination between genders
+- M5) Comparison of rumination between genders with respect to discouragement to play COMGs, participation in game communities, and gamer identity
+- M6) Comparison of the use of moderation tools and perceived severity of types and examples of gender discrimination
+- M7) Comparison of perceived severity and changes information of discriminated players to hide their gender
